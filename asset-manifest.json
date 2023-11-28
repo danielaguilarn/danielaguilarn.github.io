@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d3a7df9c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/IMG_2973.gif": "/static/media/IMG_2973.0aee3b701580bba2f560.gif",
+    "static/media/surf.jpg": "/static/media/surf.9875244c3947fcdc132d.jpg",
+    "static/media/waterpolo.jpeg": "/static/media/waterpolo.a5101a55bbcc5c74d570.jpeg",
+    "static/media/about.jpg": "/static/media/about.8bc3a9a828d9abc39d4b.jpg",
+    "static/media/haircut.jpg": "/static/media/haircut.8d1211c16e9eff5ef038.jpg",
+    "static/media/guitar.JPG": "/static/media/guitar.8e8697fd92cd75f77ee2.JPG",
+    "static/media/daniel_nova_resume_2023.pdf": "/static/media/daniel_nova_resume_2023.a8c955f6e95b749371f1.pdf",
+    "index.html": "/index.html",
+    "main.d3a7df9c.js.map": "/static/js/main.d3a7df9c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d3a7df9c.js"
+  ]
+}
